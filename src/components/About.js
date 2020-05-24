@@ -13,8 +13,7 @@ class About extends Component {
 							The Equity Global Scholars is a community of Kenyan students studying
 							abroad. Through social events, mentorship, and monthly newsletters, EGS
 							provides social, and academic support to scholars. The program has one
-							main annual event: Thanksgiving reunion, a time where members reconnect,
-							share and learn from their peers.
+							main annual event: Thanksgiving reunion, a time where members reconnect with their peers.
 						</h4>
 						<div class="carousel_wrapper">
 							<Carousel>
